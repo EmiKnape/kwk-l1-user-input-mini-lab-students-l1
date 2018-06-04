@@ -8,3 +8,5 @@ end
 about_me
 end
 puts "How are you feeling?"
+answer = gets.chomp
+puts "so you're feeling #{answer}?"
