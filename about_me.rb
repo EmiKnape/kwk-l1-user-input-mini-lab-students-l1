@@ -7,4 +7,4 @@ end
 250.times do
 about_me
 end
-puts "How are you feeling"
+puts "How are you feeling?"
